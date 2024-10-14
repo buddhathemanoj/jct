@@ -4,9 +4,7 @@ const ProductPage = () => {
   return (
     <>
       <SidebarLayout>
-
       This is product Page
-
       </SidebarLayout>
     </>
   );
